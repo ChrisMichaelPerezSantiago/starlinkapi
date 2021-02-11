@@ -1,0 +1,27 @@
+{
+  "name": "starlinkapi",
+  "version": "1.0.0",
+  "description": "It provides data on the positioning of each SpaceX StarLink Satellite at each point on earth, in real time.",
+  "main": "./src/index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "keywords": [
+    "StarLink",
+    "SpaceX"
+  ],
+  "author": {
+    "name": "Chris Michael",
+    "email": "chrisperezsantiago1@gmail.com",
+    "social": {
+      "github": "https://github.com/ChrisMichaelPerezSantiago",
+      "twitter": "https://twitter.com/Chris5855M"
+    }
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "lodash": "^4.17.20",
+    "nodemon": "^2.0.7"
+  }
+}
