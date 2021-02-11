@@ -208,4 +208,4 @@ _*Chris Michael*_
 
 ---
 
-Copyright © 2020 [StarLink API](https://github.com/ChrisMichaelPerezSantiago/starlinkapi).
+Copyright © 2021 [StarLink API](https://github.com/ChrisMichaelPerezSantiago/starlinkapi).
